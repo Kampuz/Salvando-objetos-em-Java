@@ -1,3 +1,4 @@
-persistencia/Persistence.class
-main/Main.class
-classe/Person.class
+Object/Object.class
+ObjectHandler/WriteObjects.class
+Main/Main.class
+ObjectHandler/ReadObjects.class
