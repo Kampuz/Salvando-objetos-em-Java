@@ -10,5 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>com.mycompany.trabalho1.Trabalho1</exec.mainClass>
     </properties>
-    <name>trabalho</name>
+    <name>Salvando Objetos</name>
 </project>
